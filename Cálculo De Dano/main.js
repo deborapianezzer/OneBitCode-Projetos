@@ -1,0 +1,1 @@
+const nameOfCharacterOne = prompt("Insira o nome do personagem atacante:")
