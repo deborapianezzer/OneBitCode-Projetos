@@ -2,7 +2,7 @@ const numericalValue = prompt(
   "Insira um valor em metros que deseja realizar a conversão:"
 )
 const unitOfMeasurement = prompt(
-  "Digite qual a unidade de medida que realizar a conversão: \na) dm \nb) cm \nc) mm \nd) dam \ne) hm \nf) km"
+  "Digite qual a opção unidade de medida para realizar a conversão: \na) dm \nb) cm \nc) mm \nd) dam \ne) hm \nf) km"
 )
 
 switch (unitOfMeasurement) {
