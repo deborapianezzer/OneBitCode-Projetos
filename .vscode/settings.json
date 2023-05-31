@@ -2,7 +2,7 @@
     // editor
     "editor.wordWrap": "on",
     "editor.fontSize": 12,
-    "editor.lineHeight": 30,
+    "editor.lineHeight": 24,
     "editor.tabSize": 2,
     "editor.bracketPairColorization.enabled": true,
     "editor.guides.bracketPairs": true,
